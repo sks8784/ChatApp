@@ -7,7 +7,7 @@ import ReactScrollToBottom from "react-scroll-to-bottom";
 import closeIcon from "../../images/close.png";
 
 
-const ENDPOINT="https://chatapp-8iex.onrender.com/";
+const ENDPOINT="https://chatappapi-ltqr.onrender.com/";
 // const ENDPOINT="http://localhost:4500/";
 
 let socket;
